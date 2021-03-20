@@ -1,5 +1,6 @@
 import pygame, sys, random
 import os
+import numpy
 
 def resource_path(relative_path):
     try:
