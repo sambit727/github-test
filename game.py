@@ -1,6 +1,7 @@
 import pygame, sys, random
 import os
 import numpy
+import pandas as pd
 
 def resource_path(relative_path):
     try:
